@@ -1,0 +1,6 @@
+^initest\.Rproj$
+^\.Rproj\.user$
+^initest\.Rcheck$
+^initest.*\.tar\.gz$
+^initest.*\.tgz$
+^LICENSE\.md$
