@@ -3,7 +3,7 @@
 
 # initest
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sprocketsullivan/initest/master?urlpath=rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sprocketsullivan/initest/main?urlpath=rstudio)
 
 This repository contains the data and code for our paper:
 
